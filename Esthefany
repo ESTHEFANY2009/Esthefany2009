@@ -1,0 +1,60 @@
+Corpo {
+ cor: branco; 
+ Fundo: preto; 
+   Margem:   0PX; 0PX; 
+ Fonte-família: "Chakra Petch", sem serif; "Chakra Petch", sem serif; 
+  margem-faixo:  100PX; 100PX; 
+}
+
+ç
+ Fundo da fronteira: sólido 2px RGB (42,  122,  228);  
+  preenchimento:  20PX; 
+  Tamanho da fonte:  32PX; 
+ Cor: RGB (42,  122,  228);  
+}
+
+.chamada {chamada {
+ Fundo: RGB (184,  156,  213);  
+  fundo de preenchimento:  80PX; 
+ Acondicionamento-topo: 80PX; 
+  Exibição: Flex;  
+      justify-content: center;  
+}
+
+.chamada-texto {chamada-texto {
+  margem-direita:  5%;  
+}
+
+H1 {
+  Tamanho da fonte:  40PX; 
+}
+
+P {
+  Tamanho da Fonte:  20PX; 
+}
+
+.
+  Exibição: Flex;  
+ Overflow-X: Auto; 
+ Lacuna: 10PX; 
+}
+
+.categoria {categoria {
+ Pregamento-esquerda: 20PX; 
+  acolchoamento-direito:  20PX; 
+  Margem-topo:  50PX; 
+}
+
+.categoria-videos img {categoria-videos img {
+   Opacidade:  0,5 ;   0,5 ;   
+ Altura: 200PX; 
+}
+
+.categoria-videos   img:hover  {categoria-videos img:hover {  
+  Opacidade:  1.0;  1.0;  
+  Fronteira:  3px verde sólido;  3px verde sólido;  
+}
+
+Categoria: H2 {
+ Cor: RGB (42,  122,  228);  42,  122,  228);  
+}
